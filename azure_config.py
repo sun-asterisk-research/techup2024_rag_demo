@@ -1,0 +1,5 @@
+AZURE_ENDPOINT: str = "https://your_user.openai.azure.com/"
+AZURE_OPENAI_API_KEY: str = "your_api_key"
+AZURE_OPENAI_API_VERSION: str = "2023-03-15-preview"
+AZURE_EMBEDDING_DEPLOYMENT: str = "ADA002"
+AZURE_MODEL_DEPLOYMENT: str = "GPT35"
